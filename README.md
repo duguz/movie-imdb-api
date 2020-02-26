@@ -1,5 +1,5 @@
 # node-imdb-movie-api
-(http://bit.ly/ndjsm)  "Express ve MongoDB ile IMDB Movies Restful API Project" 
+"Express ve MongoDB ile IMDB Movies Restful API Project" 
 
 
 # Movies
