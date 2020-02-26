@@ -1,3 +1,5 @@
+[![Build status](https://api.travis-ci.org/duguz/movie-imdb-api.svg)] (https://travis-ci.org/duguz/movie-imdb-api)
+
 # node-imdb-movie-api
 "Express ve MongoDB ile IMDB Movies Restful API Project" 
 
